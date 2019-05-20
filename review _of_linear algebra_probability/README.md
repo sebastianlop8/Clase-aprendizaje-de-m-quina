@@ -1,7 +1,7 @@
-# Repaso de algebra lineal Y probabilidad 
+# Repaso de algebra lineal y probabilidad
 
 
-Estas técnicas permite determinar si hay o no dependencia lineal ,por tal motivo asegurar que una matriz tenga independencia lineal aseguara puede ser invertible, o que un sistema de ecuaciones lineales tiene una única solución, o cuando una estimación por mínimos cuadrados se define de forma única
+Estas técnicas permite determinar si hay o no dependencia lineal ,por tal motivo asegurar que una matriz tenga independencia lineal , que puede ser invertible, o que un sistema de ecuaciones lineales tiene una única solución, o cuando una estimación por mínimos cuadrados se define de forma única
 
 Esto permite que se este mas familiarizado con las diferentes técnicas que se muestran a lo largo del curso y con la libriria TensorFlow, Scikit-learn para mirar las diferentes funciones de probabilidad
 
