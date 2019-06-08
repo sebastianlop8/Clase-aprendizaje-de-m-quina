@@ -1,14 +1,14 @@
-# Repaso de algebra lineal y probabilidad
+# Machine Learning Refined: Notes, Exercises, and Jupyter notebooks 
 
 
-Estas técnicas permite determinar si hay o no dependencia lineal ,por tal motivo asegurar que una matriz tenga independencia lineal , que puede ser invertible, o que un sistema de ecuaciones lineales tiene una única solución, o cuando una estimación por mínimos cuadrados se define de forma única
-
-Esto permite que se este mas familiarizado con las diferentes técnicas que se muestran a lo largo del curso y con la libriria TensorFlow, Scikit-learn para mirar las diferentes funciones de probabilidad
 
 #### Summary
 
 * [Installation](#installation)
     * [Python 3 & Anaconda](#1-python-3--anaconda)
+    
+ ### Chapter 1: Repaso probabilidades y estadistica
+
 * [Algebra lineal](https://github.com/sebastianlop8/Machine_Learning/blob/master/review%20_of_linear%20algebra_probability/tarea%201.ipynb)
     * [SVD](https://github.com/sebastianlop8/Machine_Learning/blob/master/review%20_of_linear%20algebra_probability/tarea%201.ipynb)
     * [Eigens](https://github.com/sebastianlop8/Machine_Learning/blob/master/review%20_of_linear%20algebra_probability/tarea%201.ipynb)
@@ -20,6 +20,25 @@ Esto permite que se este mas familiarizado con las diferentes técnicas que se m
     * [Distribución beta](https://github.com/sebastianlop8/Machine_Learning/blob/master/review%20_of_linear%20algebra_probability/tarea%202.ipynb)
     * [Distribución Bernoulli](https://github.com/sebastianlop8/Machine_Learning/blob/master/review%20_of_linear%20algebra_probability/tarea%202.ipynb)
     * [Distribución binomial](https://github.com/sebastianlop8/Machine_Learning/blob/master/review%20_of_linear%20algebra_probability/tarea%202.ipynb)
+   
+ 
+### Chapter 3: Modelo lineal y mínimos cuadrados 
+
+* [Modelo Lineal Regularizado](http://localhost:8888/notebooks/Documents/GitHub/Clase-aprendizaje-de-m-quina/Regularized%20LM/tarea%203.ipynb)
+    * [Ridge Regression](http://localhost:8888/notebooks/Documents/GitHub/Clase-aprendizaje-de-m-quina/Regularized%20LM/tarea%203.ipynb)
+    * [Lasso Regression](http://localhost:8888/notebooks/Documents/GitHub/Clase-aprendizaje-de-m-quina/Regularized%20LM/tarea%203.ipynb)
+    * [ElasticNet](http://localhost:8888/notebooks/Documents/GitHub/Clase-aprendizaje-de-m-quina/Regularized%20LM/tarea%203.ipynb)
+    * [KernelRidge rbf](http://localhost:8888/notebooks/Documents/GitHub/Clase-aprendizaje-de-m-quina/Regularized%20LM/tarea%203.ipynb)
+    * [Bayesian Ridge Regression](http://localhost:8888/notebooks/Documents/GitHub/Clase-aprendizaje-de-m-quina/Regularized%20LM/tarea%203.ipynb)
+    * [Automatic Relevance Determination Regression (ARD)](http://localhost:8888/notebooks/Documents/GitHub/Clase-aprendizaje-de-m-quina/Regularized%20LM/tarea%203.ipynb)
+    
+* [Demostraciones](http://localhost:8888/notebooks/Documents/GitHub/Clase-aprendizaje-de-m-quina/Regularized%20LM/tarea%203.ipynb)
+    * [1](http://localhost:8888/notebooks/Documents/GitHub/Clase-aprendizaje-de-m-quina/Regularized%20LM/tarea%203.ipynb)
+    * [2](http://localhost:8888/notebooks/Documents/GitHub/Clase-aprendizaje-de-m-quina/Regularized%20LM/tarea%203.ipynb)
+    * [3](http://localhost:8888/notebooks/Documents/GitHub/Clase-aprendizaje-de-m-quina/Regularized%20LM/tarea%203.ipynb)
+
+    
+[Parcial](http://localhost:8888/notebooks/Documents/GitHub/Clase-aprendizaje-de-m-quina/Exploratory%20data%20analysis%20of%20FIFA-2019%20player%20ratings%20%20and%20regression/Parcial1_ApMaq_UTP20191.ipynb)    
 
 ## Installation
 
