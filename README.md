@@ -1,5 +1,7 @@
 # Machine Learning Refined: Notes, Exercises, and Jupyter notebooks 
+![alt-text-1](http://culto.latercera.com/wp-content/uploads/2017/12/dali.png)
 
+<h2 align="right">ARTE  SALVADOR DALÍ - http://culto.latercera.com/2017/12/10/publican-mil-obras-dali-en-la-web/</h2> 
 
 
 #### Summary
@@ -32,13 +34,21 @@
     * [Bayesian Ridge Regression](http://localhost:8888/notebooks/Documents/GitHub/Clase-aprendizaje-de-m-quina/Regularized%20LM/tarea%203.ipynb)
     * [Automatic Relevance Determination Regression (ARD)](http://localhost:8888/notebooks/Documents/GitHub/Clase-aprendizaje-de-m-quina/Regularized%20LM/tarea%203.ipynb)
     
+* [Modelo Lineal Regularizado multivariada](http://localhost:8888/notebooks/Documents/GitHub/Clase-aprendizaje-de-m-quina/Regularized%20LM/03S_AP_LadoaLado.ipynb)
+    * [Ridge Regression](http://localhost:8888/notebooks/Documents/GitHub/Clase-aprendizaje-de-m-quina/Regularized%20LM/03S_AP_LadoaLado.ipynb)
+    * [Lasso Regression](http://localhost:8888/notebooks/Documents/GitHub/Clase-aprendizaje-de-m-quina/Regularized%20LM/03S_AP_LadoaLado.ipynb)
+    * [ElasticNet](http://localhost:8888/notebooks/Documents/GitHub/Clase-aprendizaje-de-m-quina/Regularized%20LM/03S_AP_LadoaLado.ipynb)
+    * [KernelRidge rbf](http://localhost:8888/notebooks/Documents/GitHub/Clase-aprendizaje-de-m-quina/Regularized%20LM/03S_AP_LadoaLado.ipynb)
+    * [Bayesian Ridge Regression](http://localhost:8888/notebooks/Documents/GitHub/Clase-aprendizaje-de-m-quina/Regularized%20LM/03S_AP_LadoaLado.ipynb)
+    * [Automatic Relevance Determination Regression (ARD)](http://localhost:8888/notebooks/Documents/GitHub/Clase-aprendizaje-de-m-quina/Regularized%20LM/03S_AP_LadoaLado.ipynb)
+    
 * [Demostraciones](http://localhost:8888/notebooks/Documents/GitHub/Clase-aprendizaje-de-m-quina/Regularized%20LM/tarea%203.ipynb)
     * [1](http://localhost:8888/notebooks/Documents/GitHub/Clase-aprendizaje-de-m-quina/Regularized%20LM/tarea%203.ipynb)
     * [2](http://localhost:8888/notebooks/Documents/GitHub/Clase-aprendizaje-de-m-quina/Regularized%20LM/tarea%203.ipynb)
     * [3](http://localhost:8888/notebooks/Documents/GitHub/Clase-aprendizaje-de-m-quina/Regularized%20LM/tarea%203.ipynb)
 
     
-[Parcial](http://localhost:8888/notebooks/Documents/GitHub/Clase-aprendizaje-de-m-quina/Exploratory%20data%20analysis%20of%20FIFA-2019%20player%20ratings%20%20and%20regression/Parcial1_ApMaq_UTP20191.ipynb)    
+* [Parcial](http://localhost:8888/notebooks/Documents/GitHub/Clase-aprendizaje-de-m-quina/Exploratory%20data%20analysis%20of%20FIFA-2019%20player%20ratings%20%20and%20regression/Parcial1_ApMaq_UTP20191.ipynb)    
 
 ## Installation
 
