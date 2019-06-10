@@ -40,9 +40,9 @@
     * [Automatic Relevance Determination Regression (ARD)](https://github.com/sebastianlop8/Machine_Learning/blob/master/Regularized%20LM/03S_AP_LadoaLado.ipynb)
     
 * [Demostraciones]
-    * [1]
-    * [2]
-    * [3]
+    * [1](https://github.com/sebastianlop8/Machine_Learning/tree/master/Demostraciones/igualdad%201)
+    * [2](https://github.com/sebastianlop8/Machine_Learning/tree/master/Demostraciones/igualdad%202)
+    * [3](https://github.com/sebastianlop8/Machine_Learning/tree/master/Demostraciones/igualdad%203)
   
     
 * [Parcial](https://github.com/sebastianlop8/Machine_Learning/blob/master/Exploratory%20data%20analysis%20of%20FIFA-2019%20player%20ratings%20%20and%20regression/Parcial1_ApMaq_UTP20191.ipynb)    
