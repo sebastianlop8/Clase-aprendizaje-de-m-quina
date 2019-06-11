@@ -31,13 +31,13 @@
     * [Bayesian Ridge Regression](https://github.com/sebastianlop8/Machine_Learning/blob/master/Regularized%20LM/tarea%203.ipynb)
     * [Automatic Relevance Determination Regression (ARD)](https://github.com/sebastianlop8/Machine_Learning/blob/master/Regularized%20LM/tarea%203.ipynb)
     
-* [Modelo Lineal Regularizado multivariada](https://github.com/sebastianlop8/Machine_Learning/blob/master/Regularized%20LM/03S_AP_LadoaLado.ipynb)
-    * [Ridge Regression](https://github.com/sebastianlop8/Machine_Learning/blob/master/Regularized%20LM/03S_AP_LadoaLado.ipynbb)
-    * [Lasso Regression](https://github.com/sebastianlop8/Machine_Learning/blob/master/Regularized%20LM/03S_AP_LadoaLado.ipynb)
-    * [ElasticNet](https://github.com/sebastianlop8/Machine_Learning/blob/master/Regularized%20LM/03S_AP_LadoaLado.ipynb)
-    * [KernelRidge rbf](https://github.com/sebastianlop8/Machine_Learning/blob/master/Regularized%20LM/03S_AP_LadoaLado.ipynb)
-    * [Bayesian Ridge Regression](https://github.com/sebastianlop8/Machine_Learning/blob/master/Regularized%20LM/03S_AP_LadoaLado.ipynb)
-    * [Automatic Relevance Determination Regression (ARD)](https://github.com/sebastianlop8/Machine_Learning/blob/master/Regularized%20LM/03S_AP_LadoaLado.ipynb)
+* [Modelo Lineal Regularizado multivariada](https://github.com/sebastianlop8/Machine_Learning/blob/master/Regularized%20LM/tarea4.ipynb)
+    * [Ridge Regression](https://github.com/sebastianlop8/Machine_Learning/blob/master/Regularized%20LM/tarea4.ipynb)
+    * [Lasso Regression](https://github.com/sebastianlop8/Machine_Learning/blob/master/Regularized%20LM/tarea4.ipynb)
+    * [ElasticNet](https://github.com/sebastianlop8/Machine_Learning/blob/master/Regularized%20LM/tarea4.ipynb)
+    * [KernelRidge rbf](https://github.com/sebastianlop8/Machine_Learning/blob/master/Regularized%20LM/tarea4.ipynb)
+    * [Bayesian Ridge Regression](https://github.com/sebastianlop8/Machine_Learning/blob/master/Regularized%20LM/tarea4.ipynb)
+    * [Automatic Relevance Determination Regression (ARD)](https://github.com/sebastianlop8/Machine_Learning/blob/master/Regularized%20LM/tarea4.ipynb)
     
 * [Demostraciones]
     * [1](https://github.com/sebastianlop8/Machine_Learning/tree/master/Demostraciones/igualdad%201)
