@@ -43,6 +43,8 @@
     * [1](https://github.com/sebastianlop8/Machine_Learning/tree/master/Demostraciones/igualdad%201)
     * [2](https://github.com/sebastianlop8/Machine_Learning/tree/master/Demostraciones/igualdad%202)
     * [3](https://github.com/sebastianlop8/Machine_Learning/tree/master/Demostraciones/igualdad%203)
+* [Gradient Descent](https://github.com/sebastianlop8/Machine_Learning/blob/master/Gradient%20Descent%20in%20Linear%20Regression/gradient-descent.ipynb)
+
   
     
 * [Parcial](https://github.com/sebastianlop8/Machine_Learning/blob/master/Exploratory%20data%20analysis%20of%20FIFA-2019%20player%20ratings%20%20and%20regression/Parcial1_ApMaq_UTP20191.ipynb)    
